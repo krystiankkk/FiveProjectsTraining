@@ -1,0 +1,25 @@
+[{
+  "pytanie" : "w ktorym roku wydano Py?",
+  "a": 1986,
+  "b": 1991,
+  "c": 1995,
+  "d": 2000,
+  "prawidlowa_odpowiedz": "b"
+},
+{
+  "pytanie" : "ktory aktor jako pierwszy wcielil sie w JBonda?",
+    "a": "Sean Connery",
+    "b": "Roger Moore",
+    "c": "Timoty Dalton",
+    "d": "Pierce Brosnan",
+    "prawidlowa_odpowiedz": "a"
+},
+{
+"pytanie":"ktora planeta od slonca jest ziemia?",
+"a":1,
+"b":2,
+"c":3,
+"d":4,
+"prawidlowa_odpowiedz":"c"
+
+}]
